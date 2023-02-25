@@ -1,0 +1,37 @@
+The average running time of the sequential program for 5 executions:
+
+1. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 356.276 Seconds
+
+2. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 370.269 Seconds
+
+3. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 400.258 Seconds
+
+4. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 398.158 Seconds
+
+5. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 409.954 Seconds
+
+Average= 386.983
+
+The average running time of modified program for 5 executions:
+
+1. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 120.805 Seconds
+
+2. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 137.68 Seconds
+
+3. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 151.556 Seconds
+
+4. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 170.452 Seconds
+
+5. The area estimate with 1410065408 samples is: 4000.05
+Execution Time: 208.956 Seconds
+
+Average: 157.8898
